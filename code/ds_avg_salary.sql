@@ -1,3 +1,4 @@
+-- Find average salary of Data Scientist
 SELECT job_title,
 	   experience_level, 
 	   company_location,
